@@ -1,4 +1,5 @@
 = TEST.adoc
+:stem:
 
 [%header,format=csv]
 |===
@@ -34,3 +35,8 @@ a,b,c
 |Column 2, row 4
 |Column 3, row 4
 |===
+
+
+stem:[sqrt(4) = 2]
+
+Water (stem:[H_2O]) is a critical component.
